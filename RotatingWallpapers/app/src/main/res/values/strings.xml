@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rotating Wallpapers</string>
+
+    <string-array name="time_intervals">
+        <item>weeks</item>
+        <item>days</item>
+        <item>hours</item>
+        <item>minutes</item>
+    </string-array>
+</resources>
